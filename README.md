@@ -1,5 +1,9 @@
 # WPGraphQL Set Query
 
+This is an *experimental* plugin that could be useful as an exposition on how
+to extend [WPGraphQL][wp-graphql] to support custom logic. It probably doesn't
+make sense to use this directly.
+
 This plugin extends [WPGraphQL][wp-graphql] to allow queries for ordered "sets"
 of posts that are defined by custom logic. For example, you may have a list of
 post IDs in an option, or you many want to identify posts using data from a
